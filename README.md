@@ -1,4 +1,4 @@
-# Bike-Sharing Demand Forecasting MLOps Starter
+# Bike-Sharing Demand Forecasting MLOps Exercise
 
 This repository scaffolds an end-to-end Python MLOps project around the UCI Bike Sharing hourly dataset. It trains a simple baseline and a stronger gradient boosting model with a strict time-based split, logs runs to MLflow, registers the best model, serves predictions through FastAPI, and generates an Evidently drift report comparing the training reference set to a holdout batch.
 
