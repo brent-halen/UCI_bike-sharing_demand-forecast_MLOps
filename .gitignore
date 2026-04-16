@@ -1,0 +1,15 @@
+.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+htmlcov/
+
+data/raw/
+data/processed/
+mlruns/
+mlflow.db
+mlflow.db-journal
+models/serving_manifest.json
+drift_report.html

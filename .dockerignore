@@ -1,0 +1,10 @@
+.git
+.pytest_cache
+.venv
+__pycache__
+*.py[cod]
+mlruns
+mlflow.db
+drift_report.html
+data/raw
+data/processed
